@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-gcc-x86",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "windowsSdkVersion": " \"10.0.19041.0\""
+        }
+    ],
+    "version": 4
+}
